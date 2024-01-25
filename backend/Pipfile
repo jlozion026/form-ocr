@@ -5,6 +5,13 @@ name = "pypi"
 
 [packages]
 django = "*"
+asgiref = "*"
+django-cors-headers = "*"
+djangorestframework = "*"
+install = "*"
+pytz = "*"
+sqlparse = "*"
+tzdata = "*"
 
 [dev-packages]
 
